@@ -1,5 +1,6 @@
 #"If it looks like a duck, swims like a duck, and quacks like a duck, then it's probably a duck."->polymorphism
 class Duck:  
+    
     def quack(self):
         print("Duck: Quack!")
 
